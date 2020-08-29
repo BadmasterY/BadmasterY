@@ -7,4 +7,4 @@
 - 理想: 🏠 Working from home...(让我再睡会儿)
 - 现实: 💀 996 加班ing...
 
-[![Mr. github stats](https://github-readme-stats.vercel.app/api?username=BadmasterY)](https://badmastery.github.io/)
+[![Mr. github stats](https://github-readme-stats.vercel.app/api?username=BadmasterY)](https://badmastery.github.io/me)
